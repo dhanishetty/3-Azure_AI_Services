@@ -1,0 +1,5 @@
+azure.ai.vision.imageanalysis
+
+pillow
+
+azure-cognitiveservices-vision-computervision
